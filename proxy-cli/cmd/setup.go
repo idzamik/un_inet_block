@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/idzamik/proxy-cli/xray-module"
+	"github.com/idzamik/proxy-cli/xray"
 
 	"github.com/spf13/cobra"
 )
